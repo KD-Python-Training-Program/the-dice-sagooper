@@ -13,4 +13,10 @@ You’ll also want a function that randomly grabs a number within that range and
 - Print
 - While Loops
 
+## Tools:
+https://repl.it/languages/python3
+
+## script:
+Edit the main.py file so it fits the criteria above.
+
 have fun
