@@ -48,6 +48,7 @@ while roll_again == "yes" or roll_again == "y":
     #ask the user for a 'yes', 'y' or no to repeat the dice
     roll_again = input("Roll the dices again? ")
 ```
+**Outcome:**
 
     Interval: 1-6
     Rolling the dices...
@@ -58,8 +59,3 @@ while roll_again == "yes" or roll_again == "y":
     You Rolled: 26
     Roll the dices again? no
     
-
-
-```python
-
-```
